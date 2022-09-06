@@ -1,4 +1,4 @@
-# Bike-Sharing
+# Bike-Sharing Data Analysis
 Use Tableau to Create Dashboards and Stories that Showcase the Key Metrics of Bike Sharing Data in New York City.
 
 ![BikeSharingImg](https://github.com/Wuyang080510/BikeSharing/blob/main/report%20image/bikesharingimg.jpg)
